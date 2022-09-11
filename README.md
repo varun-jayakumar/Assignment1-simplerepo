@@ -1,3 +1,3 @@
-# Assignment1-simplerepo
-- entry 1 before commiting for the "a" th time
-
+/usr/bin/bash: line 1: q: command not found
+/usr/bin/bash: line 1: q: command not found
+/usr/bin/bash: line 1: q: command not found
